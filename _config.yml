@@ -9,8 +9,8 @@ language: 'ko'
 baseurl: '/119-news/'
 
 # Website info
-title: My First Jekyll Blog
-description: The professional publishing platform
+title: WP119 매거진
+description: 워드프레스(WordPress)와 웹 기술에 관한 최신 소식과 다양한 꿀팁을 소개해 드립니다.
 cover: /assets/images/blog-cover.jpg
 logo: /assets/images/blog-icon.png
 logo_dark: /assets/images/favicon.png
